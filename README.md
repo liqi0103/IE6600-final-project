@@ -1,2 +1,2 @@
 # IE6600-final-project
- project for IE6600
+This is the final project for class IE6600. The URL of the dataset we used is https://data.cdc.gov/Flu-Vaccinations/Vaccines-gov-Flu-vaccinating-provider-locations/bugr-bbfr 
